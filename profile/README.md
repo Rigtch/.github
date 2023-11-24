@@ -1,8 +1,8 @@
-# Welcome to RigtchFM!
+# Welcome to Rigtch!
 
-## What is Rigtch?
+## What is rigtch.fm?
 
-Rigtch is website focused on displaying your all-time statistics such as favorite artists, most listened songs etc.
+rigtch.fm is a web application focused on displaying your all-time statistics such as favorite artists, most listened songs etc.
 
 ## How to use it
 
