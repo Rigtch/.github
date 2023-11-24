@@ -1,4 +1,4 @@
-# WELCOME TO RIGTCH MUSIC!
+# Welcome to RigtchFM!
 
 ## What is Rigtch?
 
@@ -6,14 +6,12 @@ Rigtch is website focused on displaying your all-time statistics such as favorit
 
 ## How to use it
 
-Join our discord server, then use our Rigtch BOT's `/apply` command to apply for private beta. Unfortunately Spotify's user policy requires each member to be added to developers dashboard before being able to fully access our application. We can add up to 25 people, so we're inviting you to join. Spotify Quota Modes Documentation - https://developer.spotify.com/documentation/web-api/concepts/quota-modes.
-
-After the ticket is submitted, you will receive a private message whether your application has been accepted and you're ready to explore your statistics on https://rigtch-music.vercel.app/.
+Explore your statistics on https://rigtch-music.vercel.app/.
 
 ## Repositories
 
-- [rigtch-music-www](https://github.com/Rigtch/rigtch-music-www)
-- [rigtch-music-api](https://github.com/Rigtch/rigtch-music-api)
+- [rigtch-fm-www](https://github.com/Rigtch/rigtch-fm-www)
+- [rigtch-fm-api](https://github.com/Rigtch/rigtch-fm-api)
 - [rigtch-bot](https://github.com/Rigtch/rigtch-bot)
 
 ## Stack
