@@ -6,7 +6,7 @@ rigtch.fm is a web application focused on displaying your all-time statistics su
 
 ## How to use it
 
-Explore your statistics on https://rigtch-music.vercel.app/.
+Explore your statistics on https://rigtch-fm.vercel.app.
 
 ## Repositories
 
