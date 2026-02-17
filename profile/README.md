@@ -4,7 +4,7 @@ Real time spotify statistics calculation based on your listening history.
 
 ## How to use it
 
-Explore your statistics on <https://rigtch-fm.vercel.app>.
+Explore your statistics on <https://rigtch.fm>.
 
 ## Repositories
 
